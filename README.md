@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Ras,a student of software engineer based in mexico
 
 <!--
 **Ras-pe/Ras-pe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
