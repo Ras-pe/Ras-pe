@@ -1,6 +1,9 @@
 ## Hi there 👋
 I'm Ras,a student of software engineer based in mexico
 
+I’m currently learning about AI, English, development in general 
+
+
 <!--
 **Ras-pe/Ras-pe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
