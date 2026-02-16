@@ -7,6 +7,9 @@ My favorite languages
 
 .Javascript  
 .Python
+I've learned Lenguages  
+.java  
+
 <!--
 **Ras-pe/Ras-pe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
