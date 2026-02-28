@@ -6,7 +6,7 @@ I’m currently learning about AI, English, development in general
 My favorite languages  
 
 .Javascript  
-.Python
+.Python  
 I've learned Lenguages  
 .java  
 
