@@ -17,6 +17,7 @@ I'm a Software Engineering student based in Mexico 🇲🇽
 ##  Languages I've Learned
 
 - Java
+- Rust
 
 ##  Goals
 
