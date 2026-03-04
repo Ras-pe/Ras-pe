@@ -1,15 +1,32 @@
 ## Hi there 👋
-I'm Ras,a student of software engineer based in mexico
+# 👋 Hi, I'm Ras
 
-I’m currently learning about AI, English, development in general 
+I'm a Software Engineering student based in Mexico 🇲🇽  
 
-My favorite languages  
+##  About Me
 
-.Javascript  
-.Python  
-I've learned Lenguages  
-.java  
+- 🌱 I’m currently learning Artificial Intelligence, English, and software development in general.
+- 💡 I enjoy building projects and improving my programming skills every day.
+- 🎮 I like technology and learning new things.
 
+##  Favorite Languages
+
+- JavaScript
+- Python
+
+##  Languages I've Learned
+
+- Java
+
+##  Goals
+
+- Improve my English skills.
+- Become better at AI development.
+- Build useful and interesting projects.
+
+---
+
+ Thanks for visiting my profile!
 <!--
 **Ras-pe/Ras-pe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
