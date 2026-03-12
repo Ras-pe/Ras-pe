@@ -15,7 +15,7 @@ I'm a Software Engineering student based in Mexico 🇲🇽
 - Python
 
 ##  Languages I've Learned
--C / C++
+- C / C++
 - Java
 - Rust
 
