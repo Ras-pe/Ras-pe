@@ -3,15 +3,17 @@
 
 I'm a Software Engineering student based in Mexico 🇲🇽  
 
+
 ##  About Me
 
-- 🌱 I’m currently learning Artificial Intelligence, English, and software development in general.
+- 🌱 I’m currently learning Artificial Intelligence, Lenguages, and software development in general.
 - 💡 I enjoy building projects and improving my programming skills every day.
 - 🎮 I like technology and learning new things.
 
-##  Favorite Languages
+##  Languages I Know 
 
 - JavaScript
+- C/C++ (10%)
 - Python
 
 ##  Languages I Want Learn
@@ -27,7 +29,7 @@ I'm a Software Engineering student based in Mexico 🇲🇽
 
 ---
 
- Thanks for visiting my profile!
+ Your are Welcome to stay on my profile! <3
 <!--
 **Ras-pe/Ras-pe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
