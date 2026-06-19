@@ -1,7 +1,7 @@
 ## Hi there 👋 
 # 👋 Hi, I'm Ras
 
-I'm a Software Engineering student based in Mexico 🇲🇽  
+I'm a Software Engineering student based in Mexico 🇲🇽 I want to Learn lenguages i realy want to learn English🇬🇧🇮🇩 and maybe one more maybe Japanese or Chinese   
 
 
 ##  About Me
