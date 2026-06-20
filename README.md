@@ -45,9 +45,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-##sylent le gusta el pepino  
-gracias me encanta el dinero  
-
----
-## Hola soy 7  
-no tienes que tenerla grande para empezar pero tienes mepezar para tenerla grande grande  
