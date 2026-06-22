@@ -27,7 +27,9 @@ I'm a Software Engineering student based in Mexico 🇲🇽 I want to Learn leng
 - Become better at AI development.
 - Build useful and interesting projects.
 
----
+---   
+
+## don't be sad Is better be any think
 
  Your are Welcome to stay on my profile! <3
 <!--
