@@ -34,9 +34,11 @@ I'm a Software Engineering student based in Mexico 🇲🇽 I want to Learn leng
 
 ## FRIENDS COMMENTS <3  
 
-#### unknown say
+#### unknown say  
 "Martes de Tacos"  
 
+#### Bond say   
+瑞斯天天开心
 
 
  Your are Welcome to stay on my profile! <3
