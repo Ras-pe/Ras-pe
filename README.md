@@ -13,11 +13,11 @@ I'm a Software Engineering student based in Mexico 🇲🇽 I want to Learn leng
 ##  Languages I Know 
 
 - JavaScript
-- C/C++ (10%)
+- C/C++ 
 - Python
 
 ##  Languages I Want Learn
-- C / C++
+
 - Java
 - Rust
 
@@ -37,10 +37,17 @@ I'm a Software Engineering student based in Mexico 🇲🇽 I want to Learn leng
 #### unknown say  
 "Martes de Tacos"  
 
+#### Akko say
+arma 3, Nwtori
+
+#### Hendrick say
+Hendrick Free
+
+
 #### Bond say   
 瑞斯天天开心
 
-d
+
  Your are Welcome to stay on my profile! <3
 <!--
 **Ras-pe/Ras-pe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
