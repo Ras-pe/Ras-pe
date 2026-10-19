@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&width=400&lines=Hello+there!;Welcome+to+my+profile.;Let's+build+something+cool.;Hi+bond)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&width=400&lines=Hello+there!;Welcome+to+my+profile.;Let's+build+something+cool.;Hi+bond;Akko)
 
 ### Software Developer in Progress · AI ·
 
