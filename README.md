@@ -1,7 +1,16 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&width=400&lines=Hello+there!;Welcome+to+my+profile.;Let's+build+something+cool.;Hi+bond)
 
+### Software Developer in Progress · AI ·
 
-I'm a Software Engineering student based in Mexico 🇲🇽 I want to Learn lenguages i realy want to learn English🇬🇧🇮🇩 and maybe one more maybe Japanese or Chinese   
+I'm a software engineering student from Mexico interested in building software, experimenting with local AI models, and exploring the intersection of technology and creativity.
+I want to Learn lenguages i realy want to learn English🇬🇧🇮🇩 and maybe one more maybe Japanese or Chinese   
+I enjoy learning by building projects, exploring new tools, and solving problems through code.
+
+- 🤖 Exploring **AI, LLMs, and local model inference**
+- 💻 Building **web applications, APIs, and real-time systems**
+- 🐧 Learning and experimenting with **Linux, networking, and self-hosted tools**
+- 👁️ Interested in **computer vision and machine learning**
+- 🎨 Exploring **abstract art, color theory, and creative technology**
 
 
 ##  About Me
@@ -70,28 +79,6 @@ Hendrick Free
 
 
  Your are Welcome to stay on my profile! <3
-
-
-
-# Hey, I'm Ras 👋
-
-### Software Developer in Progress · AI · Open Source
-
-I'm a software engineering student from Mexico interested in building software, experimenting with local AI models, and exploring the intersection of technology and creativity.
-
-I enjoy learning by building projects, exploring new tools, and solving problems through code.
-
-- 🤖 Exploring **AI, LLMs, and local model inference**
-- 💻 Building **web applications, APIs, and real-time systems**
-- 🐧 Learning and experimenting with **Linux, networking, and self-hosted tools**
-- 👁️ Interested in **computer vision and machine learning**
-- 🎨 Exploring **abstract art, color theory, and creative technology**
-
----
-
-
-
-
 
 ---
 
