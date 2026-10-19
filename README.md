@@ -57,30 +57,11 @@ I enjoy learning by building projects, exploring new tools, and solving problems
 - Become better at AI development.
 - Build useful and interesting projects.
 
----   
 
 ## don't be sad Is better be any think  
+
 --- 
 
-## FRIENDS COMMENTS <3  
-
-#### unknown say  
-"Martes de Tacos"  
-
-#### Akko say
-arma 3, Nwtori
-
-#### Hendrick say
-Hendrick Free
-
-
-#### Bond say   
-瑞斯天天开心
-
-
- Your are Welcome to stay on my profile! <3
-
----
 
 ## 📊 GitHub Stats
 
@@ -111,6 +92,25 @@ I believe programming and art share something important: both allow us to turn a
 [![GitHub](https://img.shields.io/badge/GitHub-Ras--pe-0D1117?style=flat-square&logo=github)](https://github.com/Ras-pe)
 
 ---
+
+
+## FRIENDS COMMENTS <3  
+
+#### unknown say  
+"Martes de Tacos"  
+
+#### Akko say
+arma 3, Nwtori
+
+#### Hendrick say
+Hendrick Free
+
+
+#### Bond say   
+瑞斯天天开心
+
+
+ Your are Welcome to stay on my profile! <3
 
 <sub>Learning, building, experimenting, and improving one project at a time.</sub>
 <!--
