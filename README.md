@@ -1,5 +1,6 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&width=400&lines=Hello+there!;Welcome+to+my+profile.;Let's+build+something+cool.)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Building+with+AI+and+local+LLMs;Developing+web+apps+and+APIs;Hello there;Connecting+code+with+creativity)
+
 I'm a Software Engineering student based in Mexico 🇲🇽 I want to Learn lenguages i realy want to learn English🇬🇧🇮🇩 and maybe one more maybe Japanese or Chinese   
 
 
