@@ -6,11 +6,11 @@ I'm a software engineering student from Mexico interested in building software, 
 I want to Learn lenguages i realy want to learn English🇬🇧🇮🇩 and maybe one more maybe Japanese or Chinese   
 I enjoy learning by building projects, exploring new tools, and solving problems through code.
 
-- 🤖 Exploring **AI, LLMs, and local model inference**
-- 💻 Building **web applications, APIs, and real-time systems**
-- 🐧 Learning and experimenting with **Linux, networking, and self-hosted tools**
-- 👁️ Interested in **computer vision and machine learning**
-- 🎨 Exploring **abstract art, color theory, and creative technology**
+- Exploring **AI, LLMs, and local model inference**
+- Building **web applications, APIs, and real-time systems**
+- Learning and experimenting with **Linux, networking, and self-hosted tools**
+- Interested in **computer vision and machine learning**
+- Exploring **abstract art, color theory, and creative technology**
 
 
 ##  About Me
@@ -23,7 +23,7 @@ I enjoy learning by building projects, exploring new tools, and solving problems
 - **Computer Vision & Machine Learning:** image processing, classification, and applied ML projects.
 - **Creative Technology:** abstract art, visual experimentation, and the relationship between technology and creativity.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -63,7 +63,7 @@ I enjoy learning by building projects, exploring new tools, and solving problems
 --- 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ras-pe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github)
 
@@ -71,13 +71,13 @@ I enjoy learning by building projects, exploring new tools, and solving problems
 
 ---
 
-## 💭 Currently Exploring
+## Currently Exploring
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Building+with+AI+and+local+LLMs;Developing+web+apps+and+APIs;Exploring+Linux+and+networking;Connecting+code+with+creativity)
 
 ---
 
-## 🎨 Beyond Code
+## Beyond Code
 
 Outside software development, I enjoy painting abstract art and experimenting with color theory.
 
@@ -87,7 +87,7 @@ I believe programming and art share something important: both allow us to turn a
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ras--pe-0D1117?style=flat-square&logo=github)](https://github.com/Ras-pe)
 
